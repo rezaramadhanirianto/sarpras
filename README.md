@@ -1,5 +1,19 @@
-# SarPras
-- Terhubung dengan projek sarpras-v2.0
+# sarpras
+
+Flutter and Laravel project with Mysql as Database.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference
 # ScreenShots
 ![Screenshot (127)](https://user-images.githubusercontent.com/46983732/77762014-7978e880-706b-11ea-8cf3-cc5466349117.png)
 ![Screenshot (128)](https://user-images.githubusercontent.com/46983732/77762019-7b42ac00-706b-11ea-98f3-fcf2820fee46.png)
