@@ -33,6 +33,7 @@ class LaporanController extends Controller
 
         }
         // $report = Report::find($ite->roomitem->)
+        // error_reporting(E_ALL ^ E_DEPRECATED);
         $pdf = PDF::loadview('admin.laporan.print', compact('it', 'room'));
         return $pdf->stream();
     }
